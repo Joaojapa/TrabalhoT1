@@ -6,11 +6,6 @@ Disciplina: Aprendizagem de Máquina
 Integrantes:
 # - João Vitor Campos Pires - 2324290064
 
-Descrição:
-Este módulo recebe um valor inicial e um prazo em dias para aplicação na "Caixinha Super Cofrinho".
-Calcula o rendimento bruto com base na taxa anual de 14,15%, aplica o IOF regressivo para resgates antes de 30 dias,
-e então aplica o Imposto de Renda regressivo, retornando o valor líquido final ao cliente.
-
 Fontes consultadas:
 - Tabela de IOF regressivo em investimentos (https://www.bb.com.br/site/investimentos/iof/?utm_source=chatgpt.com)
 - Tabela de Imposto de Renda regressivo (https://www.sencon.com.br/blog/tabela-de-ir-sobre-investimentos?utm_source=chatgpt.com)
